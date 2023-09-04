@@ -1,0 +1,6 @@
+[submodule "plthook"]
+	path = plthook
+	url = https://github.com/zadockmaloba/plthook
+[submodule "inline-hook"]
+	path = inline-hook
+	url = https://github.com/zadockmaloba/inline-hook
